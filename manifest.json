@@ -1,0 +1,25 @@
+{
+  "short_name": "GamePlat",
+  "name": "GamePlat — Yorick AI Game Strategy",
+  "description": "Yorick, your AI strategy coach for Balatro and beyond. Builds, combos, walkthroughs, cheat codes and hidden gems.",
+  "icons": [
+    {
+      "src": "https://static.prod-images.emergentagent.com/jobs/d58d210e-925f-4c55-b243-1eda734ee384/images/4056d09d71de61fdcbfc908619c2a4df75248b6e39be9bdf640a2dcfeb3023c2.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "https://static.prod-images.emergentagent.com/jobs/d58d210e-925f-4c55-b243-1eda734ee384/images/4056d09d71de61fdcbfc908619c2a4df75248b6e39be9bdf640a2dcfeb3023c2.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#0d0f10",
+  "background_color": "#0d0f10",
+  "orientation": "any"
+}
