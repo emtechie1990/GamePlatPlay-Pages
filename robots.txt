@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /profile
+Disallow: /login
+Disallow: /chat
+
+Sitemap: https://gameplatplay.com/sitemap.xml
